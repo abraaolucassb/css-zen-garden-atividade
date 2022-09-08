@@ -1,0 +1,63 @@
+body{
+background-color:  #f5f2d0;
+}
+h1{
+font-family: 'Poppins', sans-serif;
+font-size: 300%;
+}
+h2{
+font-family: 'Poppins:wght@300', sans-serif;
+}
+h3{
+font-family: 'Roboto', sans-serif;
+}
+p{
+font-family:'Roboto:wght@100', sans-serif;
+font-size: 95%;
+}
+.page-wrapper{
+text-align: center;
+width: 1000px;
+position: absolute;
+left: 500px;
+float: left;
+}
+.page-wrapper .preamble{
+    max-width: 500px;
+    background: #6DEEF8;
+    box-shadow: 0 5px 500px #6DEEF8;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+#zen-explanation{
+    background: #5FD9C0;
+    box-shadow: 0 5px 500px #5FD9C0;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+#zen-participation{
+    position: absolute;
+    left: 500px;
+    float: left;
+    background: #75F0B5;
+    box-shadow: 0 5px 500px #75F0B5;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+#zen-benefits{
+    background: #5FD97C;
+    box-shadow: 0 5px 500px #5FD97C;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+#zen-requirements{
+    background: #76F86D;
+    box-shadow: 0 5px 500px #76F86D;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
